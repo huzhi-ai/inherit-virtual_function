@@ -55,7 +55,9 @@ public:
 	之后子类调用做事。
 	
 ===================================================================================
-	
+	return something form function:
+	1. pass the pointer that point somer space in memory
+	2. new          //create the data structure in the heap  so that the data while alive till the program dead
 */
 
 
